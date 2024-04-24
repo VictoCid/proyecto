@@ -1,0 +1,31 @@
+/* home.module.css */
+
+.banner {
+    background-color: #fbbf24;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .bannerTitle {
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .bannerDescription {
+    color: white;
+    font-size: 14px;
+  }
+  
+  .categoryButton {
+    background-color: #3b82f6;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .categoryButton:hover {
+    background-color: #2563eb;
+  }
+  
